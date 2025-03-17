@@ -20,7 +20,7 @@ Consiste en introducir una lista de nombres (Amigos) y sortear uno de ellos.
 
 ## Acceder al desafío 🌐
 
-Siga este [enlace](https://CentenoGarrido.github.io/challenge-amigo-secreto_esp-main) para acceder al desafío.
+Siga este [enlace](https://CentenoGarrido.github.io/challenge-amigo-secreto) para acceder al desafío.
 
 ## Tecnologías utilizadas 👨‍💻
 
