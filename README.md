@@ -8,11 +8,13 @@ Consiste en introducir una lista de nombres (Amigos) y sortear uno de ellos.
 
 * Para agregar amigos simplemente escriba su nombre y haga click en el botón **"Añadir"**.
 
-> _Solamente se permiten nombres que contengan letras (o espacios). No se pueden introducir ni números, ni símbolos especiales. Si no se cumplen estas condiciones se mostrará un mensaje de advertencia al respecto para que sea corregido._
+> _Solamente se permiten nombres que contengan letras (o espacios). No se pueden introducir ni números, ni símbolos especiales. Si no se han introducido amigos, se mostrará un mensaje de advertencia al respecto. Si no se cumplen estas condiciones se mostrará un mensaje para que sea corregido._
 
 * Una vez introducido el nombre se validará según el criterio anterior y, en caso de ser correcto, se actualizará la lista de amigos.
 
 * Cuando termine de agregar amigos, puede proceder con el sorteo, para ello haga click en el botón **"Sortear amigo"**.
+
+> __Para que se pueda realizar el sorteo deben existir al menos dos amigos en la lista. Si no hay amigos suficientes se mostrará un mensaje al respecto._
 
 * Al realizar el sorteo se seleccionará aleatoriamente un amigo y se mostrará en pantalla el resultado.
 
