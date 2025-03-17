@@ -89,6 +89,8 @@ body {
 
 .button-container {
     width: 300px;
+    display: flex;
+    gap: 10px; /* Espacio entre los botones */
     justify-content: center;
 }
 
