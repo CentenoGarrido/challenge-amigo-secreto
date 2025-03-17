@@ -20,7 +20,7 @@ Consiste en introducir una lista de nombres (Amigos) y sortear uno de ellos.
 
 * Al realizar el sorteo se seleccionará aleatoriamente un amigo y se mostrará en pantalla el resultado.
 
-* Una vez sorteado el amigo secreto, puede reiniciar para incorporar una lista nueva de amigos.
+* Una vez sorteado el amigo secreto, puede hacer click en el botón **"Reiniciar"** para incorporar una lista nueva de amigos.
 
 ## Acceder al desafío 🌐
 
