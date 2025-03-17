@@ -31,3 +31,6 @@ Para realizar el desafío se utilizaron las siguientes tecnologías:
 * CSS3
 
 * Javascript
+
+## Autor ✒️
+(cc) Jesús Centeno Garrido (centenogarrido@gmail.com)
