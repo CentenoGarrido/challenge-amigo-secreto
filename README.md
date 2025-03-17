@@ -1,8 +1,8 @@
 # Desafío Amigo secreto 🎁
 
-El desafío **Amigo secreto** forma parte de la formación para principiantes en programación del grupo **G8 ONE**. Consiste en ingresar un conjunto de nombres y posteriormente sortear un amigo de esa lista.
+El desafío _**Amigo secreto**_ forma parte de la formación para principiantes en programación del grupo **G8 ONE**. Consiste en ingresar un conjunto de nombres y posteriormente sortear un amigo de esa lista.
 
-<h2>⚙️ Funcionamiento ⚙️</h2>
+## Funcionamiento ⚙️
 
 Consiste en introducir una lista de nombres (Amigos) y sortear uno de ellos.
 
@@ -18,11 +18,11 @@ Consiste en introducir una lista de nombres (Amigos) y sortear uno de ellos.
 
 * Una vez sorteado el amigo secreto, puede reiniciar para incorporar una lista nueva de amigos.
 
-<h2>🌐 Acceder al desafío 🌐</h2>
+## Acceder al desafío 🌐
 
 Siga este [enlace](https://github.com/CentenoGarrido/challenge-amigo-secreto_esp-main) para acceder al desafío.
 
-<h2>👨‍💻 Tecnologías utilizadas 👨‍💻</h2>
+## Tecnologías utilizadas 👨‍💻
 
 Para realizar el desafío se utilizaron las siguientes tecnologías:
 
