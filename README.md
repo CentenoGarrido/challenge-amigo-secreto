@@ -1,6 +1,6 @@
 # Desafío Amigo secreto 🎁
 
-El desafío _**Amigo secreto**_ forma parte de la formación para principiantes en programación del grupo **G8 ONE**. Consiste en ingresar un conjunto de nombres y posteriormente sortear un amigo de esa lista.
+El desafío _**Amigo secreto**_ es parte de la formación para principiantes en programación del grupo **G8 ONE**. Consiste en ingresar un conjunto de nombres y posteriormente sortear un amigo de esa lista.
 
 ## Funcionamiento ⚙️
 
