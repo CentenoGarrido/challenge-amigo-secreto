@@ -14,7 +14,7 @@ Consiste en introducir una lista de nombres (Amigos) y sortear uno de ellos.
 
 * Cuando termine de agregar amigos, puede proceder con el sorteo, para ello haga click en el botón **"Sortear amigo"**.
 
-* Al realizar el sorteo se seleccionará un amigo aleatorio y se mostrará en pantalla el resultado.
+* Al realizar el sorteo se seleccionará aleatoriamente un amigo y se mostrará en pantalla el resultado.
 
 * Una vez sorteado el amigo secreto, puede reiniciar para incorporar una lista nueva de amigos.
 
